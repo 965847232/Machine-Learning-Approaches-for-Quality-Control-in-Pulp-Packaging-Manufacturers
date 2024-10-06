@@ -1,6 +1,6 @@
 Dear reader! 
 
-I'm Rattana Ceesay from Thammasat University, Thailand, the author of research paper "Machine Learning Approaches for Quality Control in Pulp Packaging Manufacturers"
+I'm Rattana Ceesay from Thailand, the author of research paper "Machine Learning Approaches for Quality Control in Pulp Packaging Manufacturers"
 Published in: 2023 20th International Joint Conference on Computer Science and Software Engineering (JCSSE).
 
 I would like to share some datasets and my ipynb source codes.
